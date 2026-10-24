@@ -1,5 +1,3 @@
-# RPSMaster6000
-
 Made for our Digital Electronics and Pulse Techniques project (CSE350, Spring 2025)
 
 Collaborators
